@@ -1,5 +1,5 @@
 ## Hi 👋
-Me chamo JJosé Vitor / Curso: Ciencia da Computação 
+Me chamo José Vitor / Curso: Ciencia da Computação 
 Manaus - AM - Brasil
 <!--
 **JoseVitor-JLira19/JoseVitor-JLira19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
